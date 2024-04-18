@@ -1,5 +1,10 @@
 # Nature Photography Website
 
+Click the video below
+
+[![Nature](http://img.youtube.com/vi/scQh6T-a5as/0.jpg)](https://www.youtube.com/watch?v=scQh6T-a5as "Nature")
+
+
 This is a simple static website for Nature Photography, showcasing stunning nature photographs and providing resources for photography enthusiasts. The website is styled using Pico CSS.
 
 ## Table of Contents
